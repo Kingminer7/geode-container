@@ -29,7 +29,7 @@ rm geode-cli-v3.2.1-linux.zip
 # cd ~/xwin
 # xwin --arch x86_64 --accept-license splat --include-debug-libs --output splat
 
-git clone https://github.com/matcool/clang-msvc-sdk.git toolchain
+# git clone https://github.com/matcool/clang-msvc-sdk.git toolchain
 
 geode sdk install ~/geode
 export GEODE_SDK=~/geode

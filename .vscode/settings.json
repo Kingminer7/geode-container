@@ -1,0 +1,7 @@
+{
+  "geode.geodeCliPath": "/usr/local/bin/geode",
+  "geode.geodeSdkPath": "~/geode",
+  "cmake.environment": {
+    "GEODE_SDK": "~/geode"
+  }
+}

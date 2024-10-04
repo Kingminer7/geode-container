@@ -41,3 +41,4 @@ sudo apt-get clean
 sudo rm -rf /var/lib/apt/lists/*
 
 echo "export GEODE_SDK=~/geode" >> ~/.bashrc
+echo "export GEODE_SDK=~/geode" >> ~/.profile
